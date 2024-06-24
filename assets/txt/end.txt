@@ -150,8 +150,8 @@
 
 §2Wake up.
 
+§z------------------------------------------------------------------------------
 
+§zThanks Minecraft, thanks Mojang, thanks players, thanks everyone.
 
-Thanks Minecraft, thanks Mojang, thanks players, thanks everyone.
-
--Reload the page (F5) to get back to MinecraftDle.
+§z-Reload the page (F5) to get back to MinecraftDle.
