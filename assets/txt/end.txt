@@ -1,6 +1,6 @@
 §3I see the player you mean.
 
-§2PLAYERNAME?
+§2It's him? This player of MinecraftDle?
 
 §3Yes. Take care. It has reached a higher level now. It can read our thoughts.
 
@@ -64,7 +64,7 @@
 
 §3Use its name.
 
-§2PLAYERNAME. Player of games.
+§2Player of MinecraftDle. You. Player of games.
 
 §3Good.
 
@@ -76,7 +76,7 @@
 
 §2Once upon a time, there was a player.
 
-§3The player was you, PLAYERNAME.
+§3The player was you, Player of MinecraftDle.
 
 §2Sometimes it thought itself human, on the thin crust of a spinning globe of molten rock. The ball of molten rock circled a ball of blazing gas that was three hundred and thirty thousand times more massive than it. They were so far apart that light took eight minutes to cross the gap. The light was information from a star, and it could burn your skin from a hundred and fifty million kilometres away.
 
